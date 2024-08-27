@@ -32,7 +32,7 @@ img{
     font-weight: bold;
     position: absolute;
     color: #fff;
-    transition: all .3s ease;
+    transition: all .4s ease;
 }
 .boton:hover{
     cursor: pointer;
