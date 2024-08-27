@@ -32,9 +32,6 @@ img{
     font-weight: bold;
     position: absolute;
     color: #fff;
-    box-shadow: 0 0 10px rgb(255, 255, 255, .6);
-    -webkit-transition: all .4s ease;
-    -o-transition: all .3s ease;
     transition: all .3s ease;
 }
 .boton:hover{
